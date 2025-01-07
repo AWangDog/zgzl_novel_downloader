@@ -1,5 +1,5 @@
 # zgzl_novel_downloader
-文海小说(https://m.zgzl.net/)与其它同源小说网下载器
+(https://m.zgzl.net)文海小说 与其它同源小说网下载器
 只是单线程, 所以只推荐下载一些章节少的小说
 包含错误处理, 比如断联重试
 # 原理
